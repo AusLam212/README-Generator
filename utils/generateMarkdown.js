@@ -10,28 +10,30 @@ ${data.description}
 
 ## Table of Contents
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contribution Guide](#contribute)
+4. [Tests](#test)
+5. [Questions](#question)
 
-
-## Installation
+## Installation <a name="installation"></a>
 
 ${data.installation}
 
-## Usage
+## Usage <a name="usage"></a>
 
 ${data.usage}
 
-## License
 
-## Contributing
+## Contributing <a name="contribute"></a>
 
 ${data.contributions}
 
-## Tests
+## Tests <a name="test"></a>
 
 ${data.tests}
 
-## Questions
+## Questions <a name="question"></a>
 
 ${data.question}
   
