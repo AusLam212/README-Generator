@@ -25,18 +25,18 @@ const questions = [{
     },
     {
         type: "input",
-        message: "",
+        message: "What guidelines would you like to have for your users?",
         name: "contributions"
     },
     {
         type: "input",
-        message: "",
+        message: "What are your test instructions?",
         name: "tests"
     },
     {
         type: "input",
         messafe: "",
-        name: "questions"
+        name: "question"
     }
 
 ];
