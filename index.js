@@ -25,7 +25,7 @@ const questions = [{
     },
     {
         type: "input",
-        message: "What guidelines would you like to have for your users?",
+        message: "What contribution guidelines would you like to have for your users?",
         name: "contributions"
     },
     {
