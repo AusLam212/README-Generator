@@ -1,31 +1,39 @@
-# Title
+# ReadMe-Generator
+
+
 
 ## Description
 
-It's a read me generator, so it generates readme's...
+This code ask a series of questions that will be used to make a quality readme
 
 ## Table of Contents
 
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contribution Guide](#contribute)
+4. [Tests](#test)
+5. [Questions](#question)
 
-## Installation
+## Installation <a name="installation"></a>
 
-Just pull that bitch
+Pull the code and clone it to another repository. To run the code make sure to install fs, inquirer, and link the generateMarkdown module. Use npm install "module needed" through terminal. After installation you can run the file through "node (file name)" and it will ask a series of questions.
 
-## Usage
+## Usage <a name="usage"></a>
 
-Open file in a integrated terminal and run it through node. You will then be prompted to answer questions about your readme
 
-## License
 
-## Contributing
 
-Don't be too crazy, but also don't be not crazy
+## Contributing <a name="contribute"></a>
 
-## Tests
+Do not push to the repo you pulled this from. Create own repo to use locally.
 
-DO it all
+## Tests <a name="test"></a>
 
-## Questions
 
-Uh?
+
+## Questions <a name="question"></a>
+
+https://github.com/AusLam212
+
+Email me at atlambert11@gmail.com for more questions.
   

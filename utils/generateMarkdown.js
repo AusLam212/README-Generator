@@ -35,7 +35,9 @@ ${data.tests}
 
 ## Questions <a name="question"></a>
 
-${data.question}
+https://github.com/${data.github}
+
+Email me at ${data.email} for more questions.
   
 `;
 }
